@@ -1,0 +1,27 @@
+c:\users\birgül\documents\visual studio 2010\Projects\4A\4A\bin\Debug\4A.exe
+c:\users\birgül\documents\visual studio 2010\Projects\4A\4A\bin\Debug\4A.pdb
+c:\users\birgül\documents\visual studio 2010\Projects\4A\4A\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\birgül\documents\visual studio 2010\Projects\4A\4A\obj\x86\Debug\4A.exe
+c:\users\birgül\documents\visual studio 2010\Projects\4A\4A\obj\x86\Debug\4A.pdb
+C:\Users\TEMP\Desktop\4A\4A\obj\x86\Debug\4A.exe
+C:\Users\TEMP\Desktop\4A\4A\obj\x86\Debug\4A.pdb
+C:\Users\TEMP\Desktop\4A\4A\bin\Debug\4A.exe
+C:\Users\TEMP\Desktop\4A\4A\bin\Debug\4A.pdb
+C:\Users\TEMP\Desktop\4A\4A\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\4A\4A\obj\x86\Debug\4A.exe
+C:\Users\DELL\Downloads\4A\4A\obj\x86\Debug\4A.pdb
+C:\Users\DELL\Downloads\4A\4A\bin\Debug\4A.exe
+C:\Users\DELL\Downloads\4A\4A\bin\Debug\4A.pdb
+C:\Users\DELL\Downloads\4A\4A\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\birgülün gönderdiği üzerinde çalışılan hal\4A\obj\x86\Debug\4A.exe
+C:\Users\DELL\Desktop\birgülün gönderdiği üzerinde çalışılan hal\4A\obj\x86\Debug\4A.pdb
+C:\Users\DELL\Desktop\birgülün gönderdiği üzerinde çalışılan hal\4A\bin\Debug\4A.exe
+C:\Users\DELL\Desktop\birgülün gönderdiği üzerinde çalışılan hal\4A\bin\Debug\4A.pdb
+C:\Users\DELL\Desktop\birgülün gönderdiği üzerinde çalışılan hal\4A\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\birgül\Documents\Visual Studio 2010\Projects\birgülün gönderdiği üzerinde çalışılan hal\4A\obj\x86\Debug\4A.exe
+C:\Users\birgül\Documents\Visual Studio 2010\Projects\birgülün gönderdiği üzerinde çalışılan hal\4A\obj\x86\Debug\4A.pdb
+C:\Users\birgül\Documents\Visual Studio 2010\Projects\birgülün gönderdiği üzerinde çalışılan hal\4A\bin\Debug\4A.exe
+C:\Users\birgül\Documents\Visual Studio 2010\Projects\birgülün gönderdiği üzerinde çalışılan hal\4A\bin\Debug\4A.pdb
+C:\Users\birgül\Documents\Visual Studio 2010\Projects\birgülün gönderdiği üzerinde çalışılan hal\4A\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Egebilmuh\Desktop\Proje4A_511002_AhmetGül_511004_BirgülÖzlem\4A\4A\obj\x86\Debug\4A.exe
+C:\Users\Egebilmuh\Desktop\Proje4A_511002_AhmetGül_511004_BirgülÖzlem\4A\4A\obj\x86\Debug\4A.pdb

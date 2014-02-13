@@ -1,0 +1,11 @@
+c:\users\birgül\documents\visual studio 2010\Projects\Huffman\Huffman\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\birgül\documents\visual studio 2010\Projects\Huffman\Huffman\bin\Debug\Huffman.exe
+c:\users\birgül\documents\visual studio 2010\Projects\Huffman\Huffman\bin\Debug\Huffman.pdb
+c:\users\birgül\documents\visual studio 2010\Projects\Huffman\Huffman\obj\x86\Debug\Huffman.exe
+c:\users\birgül\documents\visual studio 2010\Projects\Huffman\Huffman\obj\x86\Debug\Huffman.pdb
+C:\Users\Egebilmuh\Desktop\Huffman\Huffman\obj\x86\Debug\Huffman.exe
+C:\Users\Egebilmuh\Desktop\Huffman\Huffman\obj\x86\Debug\Huffman.pdb
+C:\Users\Egebilmuh\Desktop\Proje4A_511002_AhmetGül_511004_BirgülÖzlem\Huffman\Huffman\obj\x86\Debug\Huffman.exe
+C:\Users\Egebilmuh\Desktop\Proje4A_511002_AhmetGül_511004_BirgülÖzlem\Huffman\Huffman\obj\x86\Debug\Huffman.pdb
+C:\Users\DELL\Downloads\Proje4A_511002_AhmetGül_511004_BirgülÖzlem\Proje4A_511002_AhmetGül_511004_BirgülÖzlem\Huffman\Huffman\obj\x86\Debug\Huffman.exe
+C:\Users\DELL\Downloads\Proje4A_511002_AhmetGül_511004_BirgülÖzlem\Proje4A_511002_AhmetGül_511004_BirgülÖzlem\Huffman\Huffman\obj\x86\Debug\Huffman.pdb
